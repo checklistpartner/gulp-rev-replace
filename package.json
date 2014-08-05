@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Rewrite occurences of filenames which have been renamed by gulp-rev in a glob",
   "main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/checklistpartner/gulp-rev-replace"
+	},
   "keywords": [
     "gulpplugin",
     "rev",
